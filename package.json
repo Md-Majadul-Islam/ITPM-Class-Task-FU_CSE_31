@@ -1,0 +1,23 @@
+{
+  "name": "majadul-student-api",
+  "version": "1.0.0",
+  "description": "A simple Express API project for Md Majadul Islam",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "student-api",
+    "nodejs"
+  ],
+  "author": "Md Majadul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
